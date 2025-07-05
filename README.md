@@ -1,4 +1,4 @@
-# 🧠 Full Stack Quiz App (React + Spring Boot)
+# 🧠  Full Stack LiveQuizzer (React + Spring Boot)
 
 This is a full-stack quiz application built with a **React.js frontend** and a **Spring Boot backend**. Users can choose a topic (Java, Python, SQL, C++) and answer multiple-choice questions, with instant correctness feedback after each response.
 
